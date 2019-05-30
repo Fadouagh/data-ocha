@@ -25,6 +25,7 @@ Our study group explores machine learning with python.
 # Contact
 
 Slack: data-ocha
+
 e-mail: fadouaghourabi@gmail.com
 
 # References
