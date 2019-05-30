@@ -18,7 +18,7 @@ Our study group explores machine learning with python.
 
 4) machine learning models with python (regression, decision tree, random forests, nearest neighbors...)
 
-* August 2019*
+*August 2019*
 
 5) our first ML project
 
