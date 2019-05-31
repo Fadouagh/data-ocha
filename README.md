@@ -30,3 +30,9 @@ e-mail: fadouaghourabi@gmail.com
 
 # References
 
+[1] Introduction to Computation and Programming Using Python. J. V. Guttag. The MIT press, 2017
+
+[2] Introduction to Machine Learning with Python. A. C. Muller and S. Guido. O'Reilly Media, 2017
+
+[3] The Elements of Statistical Learning. T. Hastie et. al. Springer, 2017
+
