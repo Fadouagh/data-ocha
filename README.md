@@ -17,10 +17,17 @@ Our study group explores machine learning with python.
 *June & July 2019*
 
 4) Machine learning models with python:
+
 Linear models (regression, regularization, etc.)
+
 Decision trees, random forests, boosting trees
-Support vector machine, nearest neighbors
-Naive Bayes
+
+K-nearest neighbors
+
+Support vector machine
+
+Naive bayes (Guest speaker: Dr. Dahan)
+
 5) Tuning hyperparameters, feature engineering
 
 *August 2019*
